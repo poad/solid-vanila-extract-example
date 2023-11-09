@@ -20,16 +20,16 @@
   "license": "MIT",
   "devDependencies": {
     "@solidjs/testing-library": "^0.8.4",
-    "@storybook/addon-essentials": "^7.5.1",
-    "@storybook/addon-interactions": "^7.5.1",
-    "@storybook/addon-links": "^7.5.1",
-    "@storybook/blocks": "^7.5.1",
+    "@storybook/addon-essentials": "^7.5.3",
+    "@storybook/addon-interactions": "^7.5.3",
+    "@storybook/addon-links": "^7.5.3",
+    "@storybook/blocks": "^7.5.3",
     "@storybook/testing-library": "^0.2.2",
     "@testing-library/jest-dom": "^6.1.4",
-    "@typescript-eslint/eslint-plugin": "^6.9.0",
-    "@typescript-eslint/parser": "^6.9.0",
+    "@typescript-eslint/eslint-plugin": "^6.10.0",
+    "@typescript-eslint/parser": "^6.10.0",
     "@vanilla-extract/vite-plugin": "^3.9.0",
-    "eslint": "^8.52.0",
+    "eslint": "^8.53.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-config-standard-with-typescript": "^39.1.1",
     "eslint-plugin-import": "^2.29.0",
@@ -40,7 +40,7 @@
     "prettier": "^3.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "storybook": "^7.5.1",
+    "storybook": "^7.5.3",
     "storybook-solidjs": "1.0.0-beta.2",
     "storybook-solidjs-vite": "1.0.0-beta.2",
     "typescript": "^5.2.2",
@@ -51,6 +51,6 @@
   "dependencies": {
     "@solidjs/router": "^0.9.0",
     "@vanilla-extract/css": "^1.13.0",
-    "solid-js": "^1.8.3"
+    "solid-js": "^1.8.5"
   }
 }
