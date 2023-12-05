@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "test": "vitest",
+    "test": "vitest --passWithNoTests",
     "eslint-check": "eslint --ext .ts,.js,.tsx,.jsx src",
     "eslint-fix": "eslint --fix --ext .ts,.js,.tsx,.jsx src",
     "prettier-check": "prettier --check src",
