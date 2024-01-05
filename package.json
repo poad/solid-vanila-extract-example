@@ -25,7 +25,7 @@
     "@storybook/addon-links": "^7.6.7",
     "@storybook/blocks": "^7.6.7",
     "@storybook/testing-library": "^0.2.2",
-    "@testing-library/jest-dom": "^6.1.6",
+    "@testing-library/jest-dom": "^6.2.0",
     "@typescript-eslint/eslint-plugin": "^6.17.0",
     "@typescript-eslint/parser": "^6.17.0",
     "@vanilla-extract/vite-plugin": "^3.9.3",
@@ -46,11 +46,11 @@
     "typescript": "^5.3.3",
     "vite": "^5.0.10",
     "vite-plugin-solid": "^2.8.0",
-    "vitest": "^1.1.1"
+    "vitest": "^1.1.2"
   },
   "dependencies": {
-    "@solidjs/router": "^0.10.5",
+    "@solidjs/router": "^0.10.6",
     "@vanilla-extract/css": "^1.14.0",
-    "solid-js": "^1.8.7"
+    "solid-js": "^1.8.8"
   }
 }
