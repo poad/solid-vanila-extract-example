@@ -51,6 +51,6 @@
   "dependencies": {
     "@solidjs/router": "^0.10.7",
     "@vanilla-extract/css": "^1.14.0",
-    "solid-js": "^1.8.9"
+    "solid-js": "^1.8.10"
   }
 }
