@@ -28,7 +28,7 @@
     "@testing-library/jest-dom": "^6.4.1",
     "@typescript-eslint/eslint-plugin": "^6.20.0",
     "@typescript-eslint/parser": "^6.20.0",
-    "@vanilla-extract/vite-plugin": "^4.0.2",
+    "@vanilla-extract/vite-plugin": "^4.0.3",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard-with-typescript": "^43.0.1",
@@ -37,7 +37,7 @@
     "eslint-plugin-solid": "^0.13.1",
     "eslint-plugin-storybook": "^0.6.15",
     "jsdom": "^24.0.0",
-    "prettier": "^3.2.4",
+    "prettier": "^3.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "storybook": "^7.6.12",
@@ -49,7 +49,7 @@
     "vitest": "^1.2.2"
   },
   "dependencies": {
-    "@solidjs/router": "^0.11.2",
+    "@solidjs/router": "^0.11.3",
     "@vanilla-extract/css": "^1.14.1",
     "solid-js": "^1.8.12"
   }
