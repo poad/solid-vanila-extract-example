@@ -49,7 +49,7 @@
     "vitest": "^1.2.2"
   },
   "dependencies": {
-    "@solidjs/router": "^0.11.3",
+    "@solidjs/router": "^0.11.5",
     "@vanilla-extract/css": "^1.14.1",
     "solid-js": "^1.8.14"
   }
