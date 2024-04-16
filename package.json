@@ -44,7 +44,7 @@
     "storybook-solidjs": "1.0.0-beta.2",
     "storybook-solidjs-vite": "1.0.0-beta.2",
     "typescript": "^5.4.5",
-    "vite": "^5.2.8",
+    "vite": "^5.2.9",
     "vite-plugin-solid": "^2.10.2",
     "vitest": "^1.5.0"
   },
