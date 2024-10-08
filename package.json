@@ -17,19 +17,19 @@
   "license": "MIT",
   "devDependencies": {
     "@solidjs/testing-library": "^0.8.10",
-    "@storybook/addon-essentials": "^8.3.4",
-    "@storybook/addon-interactions": "^8.3.4",
-    "@storybook/addon-links": "^8.3.4",
-    "@storybook/blocks": "^8.3.4",
-    "@storybook/test": "^8.3.4",
-    "@stylistic/eslint-plugin": "^2.8.0",
-    "@stylistic/eslint-plugin-js": "^2.8.0",
-    "@stylistic/eslint-plugin-jsx": "^2.8.0",
-    "@stylistic/eslint-plugin-plus": "^2.8.0",
-    "@stylistic/eslint-plugin-ts": "^2.8.0",
+    "@storybook/addon-essentials": "^8.3.5",
+    "@storybook/addon-interactions": "^8.3.5",
+    "@storybook/addon-links": "^8.3.5",
+    "@storybook/blocks": "^8.3.5",
+    "@storybook/test": "^8.3.5",
+    "@stylistic/eslint-plugin": "^2.9.0",
+    "@stylistic/eslint-plugin-js": "^2.9.0",
+    "@stylistic/eslint-plugin-jsx": "^2.9.0",
+    "@stylistic/eslint-plugin-plus": "^2.9.0",
+    "@stylistic/eslint-plugin-ts": "^2.9.0",
     "@testing-library/jest-dom": "^6.5.0",
     "@vanilla-extract/vite-plugin": "^4.0.16",
-    "eslint": "^9.11.1",
+    "eslint": "^9.12.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-promise": "^7.1.0",
     "eslint-plugin-solid": "^0.14.3",
@@ -37,11 +37,11 @@
     "jsdom": "^25.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "storybook": "^8.3.4",
+    "storybook": "^8.3.5",
     "storybook-solidjs": "1.0.0-beta.2",
     "storybook-solidjs-vite": "1.0.0-beta.2",
     "typescript": "^5.6.2",
-    "typescript-eslint": "^8.8.0",
+    "typescript-eslint": "^8.8.1",
     "vite": "^5.4.8",
     "vite-plugin-solid": "^2.10.2",
     "vitest": "^2.1.2"
@@ -49,7 +49,7 @@
   "dependencies": {
     "@solidjs/router": "^0.14.7",
     "@vanilla-extract/css": "^1.16.0",
-    "solid-js": "^1.9.1"
+    "solid-js": "^1.9.2"
   },
   "packageManager": "pnpm@9.1.1+sha512.14e915759c11f77eac07faba4d019c193ec8637229e62ec99eefb7cf3c3b75c64447882b7c485142451ee3a6b408059cdfb7b7fa0341b975f12d0f7629c71195"
 }
