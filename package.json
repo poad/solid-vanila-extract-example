@@ -28,7 +28,7 @@
     "@stylistic/eslint-plugin-plus": "^2.11.0",
     "@stylistic/eslint-plugin-ts": "^2.11.0",
     "@testing-library/jest-dom": "^6.6.3",
-    "@vanilla-extract/vite-plugin": "^4.0.17",
+    "@vanilla-extract/vite-plugin": "^4.0.18",
     "eslint": "^9.15.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-promise": "^7.1.0",
@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@solidjs/router": "^0.15.1",
-    "@vanilla-extract/css": "^1.16.0",
+    "@vanilla-extract/css": "^1.16.1",
     "solid-js": "^1.9.3"
   },
   "packageManager": "pnpm@9.1.1+sha512.14e915759c11f77eac07faba4d019c193ec8637229e62ec99eefb7cf3c3b75c64447882b7c485142451ee3a6b408059cdfb7b7fa0341b975f12d0f7629c71195"
